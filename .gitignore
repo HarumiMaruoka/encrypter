@@ -1,0 +1,31 @@
+# Visual Studio 一時フォルダ
+.vs/
+.vscode/
+
+# ビルド出力
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ビルドキャッシュ
+*.cache
+
+# OSごとの余分ファイル
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS用
+.DS_Store
+
+# Windows用
+$RECYCLE.BIN/
+
+# Rider (JetBrains)用（もし使う場合）
+.idea/
+*.sln.iml
